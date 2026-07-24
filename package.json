@@ -2,6 +2,7 @@
   "name": "ai-devday-2026",
   "type": "module",
   "private": true,
+  "packageManager": "pnpm@10.33.0",
   "scripts": {
     "build": "slidev build",
     "dev": "slidev --open",
